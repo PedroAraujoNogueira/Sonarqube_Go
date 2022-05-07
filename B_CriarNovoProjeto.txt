@@ -10,7 +10,7 @@ Para nos comunicarmos com o sonarqube vamos precisar baixar o SonarScanner.
 O SonarScanner é uma ferramenta que vai pegar todas as informações do nosso projeto
 e vai enviar essas informações para o sonarqube. 
 
-link para instalação do sonarqube:
+Link para a instalação do SonarScanner:
 https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/
 Nesse link baixe o Zip do Sonar e siga os passos descritos 
 no tópico: Executando o SonarScanner a partir do arquivo zip

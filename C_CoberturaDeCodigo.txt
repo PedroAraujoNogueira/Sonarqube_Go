@@ -13,3 +13,7 @@ de código.
 Em sonar.tests=. terá o caminho para os testes.
 Em sonar.go.coverage.reportPaths=coverage.out terá o caminho para o sonarqube verificar 
 o resultado dos testes feitos.
+
+Para rodar o mandar seu projeto para o Sonarqube digite o comando abaixo na raiz do seu 
+projeto:
+sonar-scanner
